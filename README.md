@@ -1,4 +1,33 @@
-# Getting Started with Create React App
+# Tebuk
+
+#### Video Demo: https://youtu.be/fN89mNA0xs0
+
+#### Description:
+
+- tebuk is a web application that helps Al-Quran memorizers around the world strengthen their memorization. It is created using React and Bootstrap. The source of the verses in Al-Quran is taken from third-party API by https://api.quran.com.
+
+#### Features:
+
+- Input chapter to be tested
+- Fetch data from third-party API based on users' input
+- Randomly display a verse
+- Display the answer (the next verse)
+- Keep track of users' scores
+- Display users' final score
+
+#### Skills used:
+
+- fetching data from third-party API
+- Web design
+- routing
+
+#### Future Implementation:
+
+- store users' score in database
+- Create various modes of playing
+- Insert sound of people reading the verse
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +96,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
